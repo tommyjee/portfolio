@@ -1,5 +1,5 @@
 README
 
-The goal of this project was to predict which of a company's  leads are most likely to convert. To showcase how I approach a typical data science modeling project, I wrote a report detailing my thought process, which can be viewed in `writeup/report.pdf`.
+The goal of this project was to predict which of a company's leads are most likely to convert. To showcase how I approach a typical data science modeling project, I wrote a report detailing my thought process, which can be viewed in `writeup/report.pdf`.
 
 I used a number of custom functions in the report. The source code for these can be found in `code/my_fxns.R`.
