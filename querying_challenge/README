@@ -1,0 +1,10 @@
+README
+
+Given a sample row from two tables:
+
+- `Shift`: contains the period of time when a delivery person was online, number of deliveries made, and total amount made during this time.
+- `Deliverer`: contains delivery person's id, email address, zipcode, and associated submarket.
+
+The challenge was to write various queries to find insights. The `query_challenge.Rmd` gives an overview of the data, the tasks, and my solutions. This is an example of how I'd construct an ETL job and use SQL to extract insights.
+
+The `query_challenge.R` can be run to test two cases: one when deliverer works past midnight and one when deliverer doesn't.

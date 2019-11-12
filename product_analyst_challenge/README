@@ -1,0 +1,8 @@
+README
+
+An online therapy company had the idea that if they show users a video explaining therapy, they may be more likely to start counseling.
+
+So they created a video and placed it on the payment page. The challenge was to analyze data in a relational database and create 2-4 slides to recommend whether they should have an explainer video. The `variant_id` column shows three variants of the payments page: 411 for not showing video, 412 for showing video at the top, and 413 for showing video at the bottom.
+
+I've included some code I wrote in a file called `script.R`. It'd be easy to see the outputs I talk about in slide 3 by typing "Rscript script.R" on Terminal after changing into the `product_analyst_challenge` directory, assuming you have R downloaded on your machine. The output as seen on slide 3 will then be printed to the console and the plot on slide 2 will be exported to a file called `Rplots.pdf` in the same directory.
+
